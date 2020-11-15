@@ -1,0 +1,13 @@
+D:\Grand Circus\Roshambo\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.exe
+D:\Grand Circus\Roshambo\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.deps.json
+D:\Grand Circus\Roshambo\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.runtimeconfig.json
+D:\Grand Circus\Roshambo\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.runtimeconfig.dev.json
+D:\Grand Circus\Roshambo\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.dll
+D:\Grand Circus\Roshambo\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.pdb
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.csprojAssemblyReference.cache
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.AssemblyInfoInputs.cache
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.AssemblyInfo.cs
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.dll
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.pdb
+D:\Grand Circus\Roshambo\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.genruntimeconfig.cache
